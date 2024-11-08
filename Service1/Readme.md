@@ -213,6 +213,5 @@ The API should now be running locally at `http://localhost:5000/api/`.
 
 ## License
 
-This project is licensed under the MIT License.
 
 ---
