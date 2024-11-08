@@ -140,7 +140,7 @@ The API is built using ASP.NET Core, with two main controllers:
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/GroqPlaceInfoApi.git
+   git clone https://github.com/ChinmayKuJena/tourBackend-DotNet.git
    ```
 2. Navigate to the project directory.
    ```bash
